@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhay Pratap Rana.
 - 👀 I’m interested in IT secutiry and web development.
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Penitration tools
+- 💞️ I’m looking to collaborate on Penitration testing tools (Python)
 - 📫 linkedin.com/in/mr-pratap/
 
 <!---
